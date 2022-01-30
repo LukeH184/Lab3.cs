@@ -1,0 +1,15 @@
+/home/runner/Lab3cs/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/home/runner/Lab3cs/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Lab3cs/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/runner/Lab3cs/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/runner/Lab3cs/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/Lab3cs/bin/Debug/netcoreapp6.0/main
+/home/runner/Lab3cs/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/Lab3cs/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/Lab3cs/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/Lab3cs/bin/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/Lab3cs/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/Lab3cs/obj/Debug/netcoreapp6.0/main.dll
+/home/runner/Lab3cs/obj/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/Lab3cs/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/Lab3cs/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
